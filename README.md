@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gamerlaz0
 - 👀 I’m interested in ... Video Game Development, and Software Engineering, AI and Web3 Development. 
 - 🌱 I’m currently learning ... Java, C++, C#, Python, and JavaScript. 
-- 💞️ I’m looking to collaborate on ... PyTRACK, and ULTRAGODS. 
+- 💞️ I’m looking to collaborate on ... Games Projects, and Open Source. 
 - 📫 How to reach me ... email:eoyewole250@gmail.com.
 - Facebook: https://www.facebook.com/profile.php?id=100087341722958
 - Twitter: Nathan Oyewole
